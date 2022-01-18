@@ -1,2 +1,2 @@
-# bestiejs.github.io-
+# bestiejs.github.io
 SUBDOMAIN TAKEOVER BY VIKAS
